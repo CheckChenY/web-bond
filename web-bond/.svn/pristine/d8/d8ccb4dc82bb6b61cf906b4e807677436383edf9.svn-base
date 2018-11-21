@@ -1,0 +1,340 @@
+.login-top {
+    width: 100%;
+    height: 106px;
+    position:absolute;
+    top:0;
+}
+.login-bottom{
+    width:100%;
+    height:86px;
+    position:absolute;
+    bottom:0;
+    /*以上设置是重点必须的*/
+}
+.login-mainBox{
+    width:100%;
+    position:absolute;
+    top:106px;
+    bottom:86px;
+    /*以上设置是重点必须的*/
+    background: #f2f2f2;
+    padding: 0 120px;
+}
+
+.login-mainBox .login-childBox{
+    height:100%;
+    width: 100%;
+    float:left;
+    margin-bottom:86px;
+    overflow: auto;
+    /*以上设置是重点必须的*/
+}
+
+.login-top-text
+{
+    display: inline-block;
+    font-family: STSongti-SC;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #515151;
+    margin-left: 15px;
+    -webkit-box-reflect: below 0 -webkit-linear-gradient(transparent,transparent 50%,rgba(255,255,255,.2));
+}
+
+.login-form-box
+{
+    opacity: 0.77;
+    border-radius: 4px;
+    background-color: rgba(32,32,32,0.77);
+}
+
+.login-form-title-span{
+    display: inline-block;
+    vertical-align: middle;
+    width: 4px;
+    height: 18px;
+    margin-top: 5px;
+    margin-left: 19px;
+    border-radius: 2px;
+    background-image:linear-gradient(170deg, #77beff, #428fff);
+}
+
+.login-form-title
+{
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 5px;
+    font-family: PingFangSC;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.login-form-title-en
+{
+    margin-top: 2px;
+    padding-left: 25px;
+    font-family: AppleMyungjo;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.login-form-rigth-register
+{
+    display: inline-block;
+    position: absolute;
+    top:0;
+    right: 0;
+    text-align: right;
+    height: 0;
+    width: 0;
+    border-top: 72px solid #247cf3;
+    border-left: 72px solid transparent; 
+}
+
+.login-form-rigth-register-button
+{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    background:transparent;
+    border:none;
+    padding: 0;
+    margin:8px 8px 0 0 ;
+}
+
+.login-form-rigth-register-button:hover
+{
+    color: #ffffff;
+    background:transparent;
+    border:none;
+}
+
+.login-form-rigth-register-button:active
+{
+    color: #ffffff;
+    background:transparent;
+    border:none;
+}
+.login-form-rigth-register-button:focus
+{
+    color: #ffffff;
+    background:transparent;
+    border:none;
+}
+
+.login-form-input
+{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #77beff;
+    background: none;
+    outline: none;
+}
+
+.login-form-input .ant-input
+{
+    padding-left: 42px !important;
+    background: transparent;
+    border:none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 0;
+}
+
+.login-form-input .ant-input:hover
+{
+    border:none;
+    border-bottom: 1px solid #77beff;
+    border-radius: 0;
+    color:#77beff;
+    box-shadow: none;
+}
+
+.login-form-input .ant-input:active
+{
+    border:none;
+    border-bottom: 1px solid #77beff;
+    border-radius: 0;
+    color:#77beff;
+    box-shadow: none;
+}
+.login-form-input .ant-input:focus
+{
+    border:none;
+    border-bottom: 1px solid #77beff;
+    border-radius: 0;
+    color:#77beff;
+    box-shadow: none;
+}
+
+.login-form-auto-login
+{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+.login-form-login-button
+{
+    width: 100%;
+    height: 36px;
+    border-radius: 18px;
+    background: none;
+    background-image: linear-gradient(99deg, #77beff, #428fff);
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    border:none;
+}
+
+.login-form-login-button:hover
+{
+    color: #ffffff;
+    background-color: #428fff;
+    border:none;
+}
+
+.login-form-login-button:focus
+{
+    color: #ffffff;
+    background-image: linear-gradient(99deg, #77beff, #428fff);
+    border:none;
+}
+
+.login-form-login-button:active
+{
+    color: #ffffff;
+    background-image: linear-gradient(99deg, #77beff, #428fff);
+    border:none;
+}
+
+.login-form-forget-psd-button
+{
+    margin-top: 10px;
+    width: 100%;
+    height: 18px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    border:none;
+    background: transparent;
+    box-shadow: none;  
+}
+
+.login-form-forget-psd-button:hover
+{
+    color: #ffffff;
+    background: transparent;
+    border:none;
+}
+
+.login-form-forget-psd-button:focus
+{
+    color: #ffffff;
+    background: transparent;
+    border:none;
+}
+
+.login-form-forget-psd-button:active
+{
+    color: #ffffff;
+    background: transparent;
+    border:none;
+}
+
+.login-form-versions
+{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.login-form-back-homepage-button
+{
+    height: 18px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #428df9;
+    border:none;
+    padding:0;
+    background: transparent;
+}
+
+.login-form-back-homepage-button:hover
+{
+    color: #428df9;
+    background: transparent;
+}
+
+.login-form-back-homepage-button:focus
+{
+    color: #428df9;
+    background: transparent;
+}
+
+.login-form-back-homepage-button:active
+{
+    color: #428df9;
+    background: transparent;
+}

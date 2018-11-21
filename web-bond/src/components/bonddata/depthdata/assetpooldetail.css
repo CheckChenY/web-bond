@@ -1,0 +1,96 @@
+.asset-pool-title-span{
+  display:inline-block;
+  vertical-align: middle;
+  width:4px;
+  height:18px;
+  border-radius:2px;
+  background-image:linear-gradient(170deg, #77beff, #428fff);
+}
+
+.asset-pool-title
+{
+  font-family: PingFangSC;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5b5b5b;
+  margin-left:6px;
+  vertical-align: middle;
+}
+
+.asset-pool-detail-table-col-one
+{
+  width:21%;
+  font-family: PingFangSC;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5f5f5f;
+  background-color: #f6f6f6;
+  padding: 12px 0 0 12px;
+}
+.asset-pool-detail-table-col-two
+{
+  width:29%;
+  font-family: PingFangSC;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5f5f5f;
+  background-color: #ffffff;
+  padding: 12px 0 0 12px;
+}
+
+.asset-pool-detail-table-change-information
+{
+  width: 90%;
+  font-family: PingFangSC;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5f5f5f;
+  background-color: #ffffff;
+}
+.asset-pool-detail-table-change-information>tbody>tr
+{
+  line-height: 30px;
+}
+.asset-pool-detail-table-change-information>tbody>tr>td
+{
+  padding: 0 20px 0 15px;
+}
+
+.asset-pool-detail-table-distribution
+{
+  width: 100%;
+  font-family: PingFangSC;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #5f5f5f;
+  background-color: #ffffff;
+}
+.asset-pool-detail-table-distribution>tbody>tr
+{  
+  line-height: 30px;  
+}

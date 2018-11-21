@@ -1,0 +1,40 @@
+{
+  "name": "cra-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.10.3",
+    "axios": "^0.18.0",
+    "babel-plugin-import": "^1.11.0",
+    "concurrently": "^4.0.1",
+    "history": "^4.7.2",
+    "module-resolver": "^1.0.0",
+    "react": "^16.6.0",
+    "react-addons-update": "^15.6.2",
+    "react-app-rewired": "^1.6.2",
+    "react-dom": "^16.6.0",
+    "react-intl-universal": "^1.15.0",
+    "react-redux": "^5.1.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.5",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "react-start": "react-app-rewired start",
+    "react-build": "react-app-rewired build",
+    "start": "concurrently \"react-app-rewired start\" \"cd server && yarn start\"",
+    "build": "concurrently \"react-app-rewired build\" \"cd server && yarn build\"",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3003",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

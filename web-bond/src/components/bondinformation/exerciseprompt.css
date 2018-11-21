@@ -1,0 +1,163 @@
+.top {
+    width: 100%;
+    height: 50px;
+    position:absolute;
+    top:0;
+}
+.bottom{
+    width:100%;
+    height:30px;
+    position:absolute;
+    bottom:0;
+    /*以上设置是重点必须的*/
+    text-align:center;
+    line-height:40px;
+}
+.mainBox{
+    width:100%;
+    position:absolute;
+    top:50px;
+    bottom:30px;
+    /*以上设置是重点必须的*/
+    background: #f2f2f2;
+    padding: 10px;
+}
+.mainBox .leftBox{
+    height:100%;
+    width:340px;
+    float:left;
+    margin-bottom:30px;
+    overflow: auto;
+    /*以上设置是重点必须的*/
+}
+.mainBox .rightBox{
+    height:100%;
+    margin-left:350px;
+    margin-bottom:30px;
+    overflow: auto;
+}
+
+
+.rightBox-title-row
+{
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #d2d2d2;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px 0 rgba(233, 233, 233, 0.5);
+    background-color: #ffffff;
+}
+
+.rightBox-title-span{
+    display:inline-block;
+    vertical-align: middle;
+    width:4px;
+    height:18px;
+    margin-left:10px;
+    border-radius:2px;
+    background-image:linear-gradient(170deg, #77beff, #428fff);
+}
+
+.exercise-prompt-title
+{
+    font-family: PingFangSC;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5b5b5b;
+    margin-left:6px;
+}
+
+.rightBox-refresh-button
+{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4f4f4f;
+    padding: 0;
+    box-shadow: none;
+    border: none;
+}
+
+.rightBox-refresh-button:hover
+{
+    color:#3287ff;
+}
+
+.rightBox-refresh-button:focus
+{
+    color: #4f4f4f;
+}
+
+.rightBox-refresh-button:active
+{
+    color: #387fda;
+}
+
+.exercise-prompt-tab
+{
+    margin:0;
+}
+
+.exercise-prompt-tab .ant-tabs-nav-scroll
+{
+    height: 42px;
+    box-shadow: 0 2px 4px 0 rgba(233, 233, 233, 0.5);
+    background-color: #ffffff;
+}
+
+.exercise-prompt-tab .ant-tabs-bar
+{
+    margin:0 0 10px 0;
+}
+
+.exercise-prompt-tab .ant-tabs-tab-prev-icon
+{
+    display: none;
+}
+
+.exercise-prompt-tab .ant-tabs-tab-next-icon
+{
+    display: none;
+}
+.exercise-prompt-tab .ant-tabs-nav-container-scrolling
+{
+    padding:0;
+}
+
+.exercise-prompt-tab .ant-tabs-content
+{
+    background: #ffffff;
+}
+.ant-tabs.exercise-prompt-tab.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab
+{
+    margin:5px 0 5px 10px;
+    border-radius: 15px;
+    border: solid 1px #eeeded;
+    background-color: #f7f7f7;
+    font-family: PingFangSC;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 28px;
+    letter-spacing: normal;
+    text-align: center;
+    color: #848484;
+}
+.ant-tabs.exercise-prompt-tab.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active
+{
+    box-shadow: 0 2px 4px 0 #c2d9fb;
+    background-image: linear-gradient(108deg, #77beff, #428fff);
+    color: #ffffff;
+}
+
