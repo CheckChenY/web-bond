@@ -1,0 +1,482 @@
+.bonddetails-top-all{
+    margin-top:'10px';
+    box-shadow: 0 2px 4px 0 rgba(220, 220, 220, 0.5);
+    background-color: #ffffff;
+}
+
+.bonddetails-top{
+    margin-bottom:15px;
+}
+
+.bonddetails-top-head{
+    padding-top: 15px;
+}
+
+.bonddetails-title-one{
+    width: 69px;
+    height: 25px;
+    font-family: PingFangSC;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #8a8a8a;
+    padding-left: 15px;
+    padding-right: 5px;
+}
+
+.bonddetails-title-two{
+    width: 40px;
+    height: 18px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #a9a9a9;
+    padding-right: 10px;
+}
+
+.bonddetails-title-three{
+    display: inline-block;
+    font-family: PingFangSC;
+    font-size: 10px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #5d5d5d;
+    width: 60px;
+    height: 18px;
+    border-radius: 15px;
+    background-color: #efefef;
+    padding-top: 2px;
+}
+
+.heart-img{
+    padding-right: 5px;
+}
+
+.bonddetails-top-body{
+    padding-left: 15px;
+    margin-top: 10px;
+}
+
+.bonddetails-table-title-one-top{
+    width: 74px;
+    height: 18px;
+    /* height: 144px; */
+    background-color: #f9f9f9;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4e4e4e;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-text-one-top{
+    /* width: 173px; */
+    width: 203px;
+    height: 18px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5d5d5d;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-title-two-top{
+    /* width: 53.2px;
+    height: 18px; */
+    width: 99px;
+    background-color: #f9f9f9;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4e4e4e;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-text-two-top{
+    /* width: 53px; */
+    width: 143px;
+    height: 17px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5d5d5d;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-title-three-top{
+    /* width: 65px;
+    height: 18px; */
+    width: 85px;
+    background-color: #f9f9f9;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4e4e4e;   
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-text-three-top{
+    /* width: 91px; */
+    width: 167px;
+    height: 17px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5d5d5d;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.bonddetails-table-title-one{
+    width: 74px;
+    height: 18px;
+    /* height: 144px; */
+    background-color: #f9f9f9;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4e4e4e;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-text-one{
+    /* width: 173px; */
+    width: 203px;
+    height: 18px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5d5d5d;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-title-two{
+    /* width: 53.2px;
+    height: 18px; */
+    width: 99px;
+    background-color: #f9f9f9;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4e4e4e;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-text-two{
+    /* width: 53px; */
+    width: 143px;
+    height: 17px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5d5d5d;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-title-three{
+    /* width: 65px;
+    height: 18px; */
+    width: 85px;
+    background-color: #f9f9f9;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4e4e4e;   
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bonddetails-table-text-three{
+    /* width: 91px; */
+    width: 167px;
+    height: 17px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5d5d5d;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.bonddetails-table-title-one-bottom{
+    width: 74px;
+    height: 18px;
+    /* height: 144px; */
+    background-color: #f9f9f9;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4e4e4e;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.bonddetails-table-text-one-bottom{
+    /* width: 173px; */
+    width: 203px;
+    height: 18px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5d5d5d;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.bonddetails-table-title-two-bottom{
+    /* width: 53.2px;
+    height: 18px; */
+    width: 99px;
+    background-color: #f9f9f9;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4e4e4e;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.bonddetails-table-text-two-bottom{
+    /* width: 53px; */
+    width: 143px;
+    height: 17px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5d5d5d;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.bonddetails-table-title-three-bottom{
+    /* width: 65px;
+    height: 18px; */
+    width: 85px;
+    background-color: #f9f9f9;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4e4e4e;   
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.bonddetails-table-text-three-bottom{
+    /* width: 91px; */
+    width: 167px;
+    height: 17px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5d5d5d;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.bonddetails-bottom-left-all{
+    box-shadow: 0 2px 4px 0 rgba(178, 178, 178, 0.5);
+    background-color: #ffffff;
+    /* background-color: yellow; */
+    /* margin-left: 18px;
+    margin-right: 15px; */
+}
+
+.bonddetails-bottom-left{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.bonddetails-bottom-right-all{
+    box-shadow: 0 2px 4px 0 rgba(178, 178, 178, 0.5);
+    background-color: #ffffff;
+    /* background-color: rosybrown; */
+    font-size: 13px;
+}
+
+.bonddetails-bottom-right{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 6px;
+}
+
+.bonddetails-bottom-table-one{
+    width: 77px;
+    height: 24px;
+    background-color: #f3f3f3;
+    padding-left: 11px;
+}
+
+.bonddetails-bottom-table-one-midd{
+    width: 77px;
+    height: 24px;
+    background-color: #f3f3f3;
+    text-align: center;
+}
+
+.bonddetails-bottom-table-one-down{
+    width: 77px;
+    height: 24px;
+    background-color: #f3f3f3;
+    /* padding-left: 11px; */
+    text-align: right;
+    padding-right: 11px;
+}
+
+.bonddetails-bottom-table-two{
+    background-color: #ffffff;
+    padding-left: 11px;
+}
+
+.bonddetails-bottom-table-two-midd{
+    background-color: #ffffff;
+    /* padding-left: 11px; */
+    text-align: center;
+}
+
+.bonddetails-bottom-table-two-down{
+    background-color: #ffffff;
+    /* padding-left: 11px; */
+    text-align: right;
+    padding-right: 11px;
+}
