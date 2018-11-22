@@ -1,0 +1,11 @@
+.bondinfortext-rate-debt-bid-table{
+    display: inline-block;
+}
+
+.bondinfortext-rate-debt-bid-table .ant-table-pagination.ant-pagination{
+    display: none;
+}
+
+.bondinforoverview-rightBox-collect-button{
+    border: 0;
+}

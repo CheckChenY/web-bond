@@ -1,0 +1,232 @@
+.bondcollection-top {
+    width: 100%;
+    height: 50px;
+    position:absolute;
+    top:0;
+}
+
+.bondcollection-bottom{
+    width:100%;
+    height:30px;
+    position:absolute;
+    bottom:0;
+    text-align:center;
+    line-height:40px;
+}
+
+.bondcollection-mainBox{
+    width:100%;
+    position:absolute;
+    top:50px;
+    bottom:30px;
+    background: #f2f2f2;
+    padding: 10px;
+}
+
+.bondcollection-mainBox .bondcollection-leftBox{
+    height:100%;
+    width:340px;
+    float:left;
+    margin-bottom:30px;
+    overflow: auto;
+}
+
+.bondcollection-mainBox .bondcollection-rightBox{
+    height:100%;
+    margin-left:350px;
+    margin-bottom:30px;
+    overflow: auto;
+}
+
+.bondcollection-rightBox-title-row{
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #d2d2d2;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px 0 rgba(233, 233, 233, 0.5);
+    background-color: #ffffff;
+}
+
+.bondcollection-rightBox-title-span{
+    display:inline-block;
+    vertical-align: middle;
+    width:4px;
+    height:18px;
+    margin-left:10px;
+    border-radius:2px;
+    background-image:linear-gradient(170deg, #77beff, #428fff);
+}
+
+.bondcollection-title{
+    font-family: PingFangSC;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5b5b5b;
+    margin-left:6px;
+}
+
+.bondcollection-rightBox-refresh-button{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4f4f4f;
+    padding: 0;
+    box-shadow: none;
+    border: none;
+}
+
+.bondcollection-rightBox-refresh-button:hover{
+    color:#3287ff;
+}
+
+.bondcollection-rightBox-refresh-button:focus{
+    color: #4f4f4f;
+}
+
+.bondcollection-rightBox-refresh-button:active{
+    color: #387fda;
+}
+
+.bondcollection-rightBox{
+    box-shadow: 0 2px 4px 0 rgba(233, 233, 233, 0.5);
+    background-color: #ffffff;  
+}
+
+.bondcollection-rightBox .ant-tabs-bar {
+    border:0;
+    margin:7px 5px 1px 3px;
+    outline: none;
+    -webkit-transition: padding 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: padding 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.bondcollection-rightBox .ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-nav-container {
+    height: 40px;
+    padding-left: 10px;
+}
+
+.bondcollection-rightBox .ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab{
+    border-radius: 15px 15px 15px 15px;
+    background-color: #ebebeb;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    line-height: 31px;
+    width: 145px;
+    height: 31px;
+    font-family: PingFangSC;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #848484;
+    margin-right: 10px;
+}
+
+.bondcollection-rightBox .all-tab {
+    margin-top: 0;
+}
+
+.xxx{
+    width: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bondissuance-right{
+    /* background-color:pink; */
+    /* margin-right:15px; */
+    margin-right: 10px;
+}
+
+.all-tab{
+    margin-top: 10px;
+    margin-bottom: 9px;
+}
+
+.bondissuance-right .ant-tabs-bar {
+    border:0;
+    margin: 0 0 16px 0;
+    outline: none;
+    -webkit-transition: padding 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: padding 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.bondissuance-right .ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-nav-container {
+    height: 40px;
+    padding-left: 10px;
+}
+
+.bondissuance-right .ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab{
+    border-radius: 15px 15px 15px 15px;
+    background-color: #ebebeb;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    line-height: 31px;
+    width: 115px;
+    height: 31px;
+    font-family: PingFangSC;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #848484;
+    margin-right: 10px;
+}
+
+.refresh{
+    margin-top: 10px;
+    padding-left: 12px;
+}
+
+.refresh-word{
+    width: 27px;
+    height: 18px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #5f5f5f;
+    padding-left: 5px;
+    vertical-align: middle;
+}
