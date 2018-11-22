@@ -1,9 +1,0 @@
-.bondcollecttext-rate-debt-bid-table
-{
-    display: inline-block;
-}
-
-.bondcollecttext-rate-debt-bid-table .ant-table-pagination.ant-pagination
-{
-    display: none;
-}
