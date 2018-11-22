@@ -1,0 +1,63 @@
+/* .rightsevenTable-one-table{
+    display: inline-block;
+    width:1000px;
+} */
+
+/* 设置表头格式 */
+.rightsevenTable-one-table .ant-table-middle > .ant-table-content > .ant-table-body > table > .ant-table-thead > tr{
+    height: 30px;
+    border-radius: 2px;
+    background-image: linear-gradient(93deg, #77beff, #428fff);
+}
+
+.rightsevenTable-one-table .ant-table-middle > .ant-table-content > .ant-table-body > table > .ant-table-thead > tr > th{
+    padding: 0;
+    border: none;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    background: transparent;
+    color: #ffffff;
+}
+
+
+/* 设置单元格格式 */
+.rightsevenTable-one-table .ant-table-middle > .ant-table-content > .ant-table-body > table > .ant-table-tbody > tr > td{
+    padding: 0;
+    border: none;
+}
+
+.rightsevenTable-one-table-row-one{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #656565;
+    height: 30px;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+.rightsevenTable-one-table-row-two{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #656565;
+    height: 30px;
+    padding: 0;
+    background-color: #f9f9f9;
+}

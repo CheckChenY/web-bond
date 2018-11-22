@@ -1,0 +1,13 @@
+.footer
+{
+    height: 30px;
+    padding: 0 15px;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: normal;
+    color: #616161;
+}

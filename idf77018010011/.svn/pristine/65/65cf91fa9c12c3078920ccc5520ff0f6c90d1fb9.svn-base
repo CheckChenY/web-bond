@@ -1,0 +1,47 @@
+.institute-statistical-title-span{
+  display:inline-block;
+  vertical-align: middle;
+  width:4px;
+  height:18px;
+  border-radius:2px;
+  background-image:linear-gradient(170deg, #77beff, #428fff);
+}
+
+.institute-statistical-title
+{
+  font-family: PingFangSC;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5b5b5b;
+  margin-left:6px;
+  vertical-align: middle;
+}
+
+.institute-statistical-table
+{
+  width: 100%;
+  font-family: PingFangSC;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #8a8a8a;
+}
+
+.institute-statistical-table>tbody>tr
+{
+  height: 30px;
+}
+
+.institute-statistical-table>tbody>tr>td
+{
+  padding:0 12px;
+}

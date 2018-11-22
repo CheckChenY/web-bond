@@ -1,0 +1,118 @@
+.local-government-debt-table
+{
+    display: inline-block;
+    width:1000px;
+}
+
+/* 设置表头格式 */
+.local-government-debt-table .ant-table-middle > .ant-table-content > .ant-table-body > table > .ant-table-thead > tr
+{
+    height: 30px;
+    border-radius: 2px;
+    background-image: linear-gradient(93deg, #77beff, #428fff);
+}
+
+.local-government-debt-table .ant-table-middle > .ant-table-content > .ant-table-body > table > .ant-table-thead > tr > th
+{
+    padding: 0;
+    border: none;
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    background: transparent;
+    color: #ffffff;
+}
+
+
+/* 设置单元格格式 */
+.local-government-debt-table .ant-table-middle > .ant-table-content > .ant-table-body > table > .ant-table-tbody > tr > td
+{
+    padding: 0;
+    border: none;
+}
+
+.local-government-debt-table-row-one
+{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #656565;
+    height: 30px;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+.local-government-debt-table-row-two
+{
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #656565;
+    height: 30px;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.local-government-debt-collect-button
+{
+    padding: 0;
+    border:none;
+    background:transparent;
+}
+
+.local-government-debt-collect-button:hover
+{
+    background:transparent;
+}
+.local-government-debt-collect-button:focus
+{
+    background:transparent;
+}
+.local-government-debt-collect-button:active
+{
+    background:transparent;
+}
+
+/* 设置底部分页行格式 */
+.local-government-debt-total
+{
+    display: inline-block;
+    padding-left:15px; 
+    font-family: PingFangSC;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5f5f5f;
+}
+.local-government-debt-pagination
+{
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    margin-top: 7px;
+}
+
+.local-government-debt-pagination .ant-pagination-options
+{
+    float: right;
+}
+  
