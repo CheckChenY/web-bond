@@ -2,13 +2,16 @@
   "name": "cra-redux",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "antd": "^3.10.3",
     "axios": "^0.18.0",
     "babel-plugin-import": "^1.11.0",
     "concurrently": "^4.0.1",
+    "echarts": "^4.2.0-rc.2",
     "history": "^4.7.2",
     "module-resolver": "^1.0.0",
+    "prop-types": "^15.6.2",
     "qs": "^6.5.2",
     "react": "^16.6.0",
     "react-addons-update": "^15.6.2",
@@ -21,7 +24,8 @@
     "react-scripts": "2.0.5",
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "uuid": "^3.3.2"
   },
   "scripts": {
     "react-start": "react-app-rewired start",
@@ -31,7 +35,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://192.168.50.151:8080",
+  "proxy": "http://10.204.27.182:8000",
   "browserslist": [
     ">0.2%",
     "not dead",
